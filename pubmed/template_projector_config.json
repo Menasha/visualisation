@@ -1,0 +1,22 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "PubMed Dataset - 2020",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2020_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2020_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2019",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2019_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2019_meta.tsv"
+    }
+  ]
+}
