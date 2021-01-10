@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "CORD Dataset",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/Menasha/visualisation/raw/main/cord_meta.tsv",
+      "metadataPath": "https://github.com/Menasha/visualisation/raw/main/cord_vecs.tsv"
+    }
+  ]
+}
