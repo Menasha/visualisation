@@ -98,6 +98,87 @@
       ],
       "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2010_vecs.tsv",
       "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2010_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2009",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2009_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2009_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2008",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2008_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2008_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2007",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2007_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2007_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2006",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2006_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2006_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2005",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2005_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2005_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2004",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2004_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2004_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2003",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2003_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2003_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2002",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2002_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2002_meta.tsv"
+    },
+    {
+      "tensorName": "PubMed Dataset - 2001",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2001_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Menasha/visualisation/main/pubmed_2001_meta.tsv"
     }
   ]
 }
